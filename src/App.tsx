@@ -1,12 +1,11 @@
 import "./App.css";
-import { CountProvider } from "./contexts/countContext";
-import Counter from "./components/Counter";
+import TicTacToe from "./components/TicTacToe";
 
 function App() {
   return (
-    <CountProvider>
-      <Counter />
-    </CountProvider>
+    <div>
+      <TicTacToe />
+    </div>
   );
 }
 

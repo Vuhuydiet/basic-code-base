@@ -1,4 +1,4 @@
-# React Counter App
+# React Tic Tac Toe App
 
 A simple counter application built with React, TypeScript, Context API, and Tailwind CSS.
 
@@ -29,4 +29,3 @@ npm run dev
 **Happy Coding! 🎉**
 
 If you have any questions or need help, feel free to open an issue or contact the maintainers.
-# basic-code-base
